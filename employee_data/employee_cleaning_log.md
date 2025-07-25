@@ -1,0 +1,3 @@
+- Flagged missing email addresses
+- Corrected inconsistent job titles
+- Removed terminated employees
